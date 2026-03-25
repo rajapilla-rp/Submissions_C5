@@ -4,8 +4,8 @@ Submit your assignments here.
 
 * Take OPENROUTER token for accessing the models.
 
-* Multi Turn chat UI.**
+* Multi Turn chat UI.
 
-* Chat session to be saved.**
+* Chat session to be saved.
 
-* Chat history with export + summary.**
+* Chat history with export + summary.
